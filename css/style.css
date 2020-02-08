@@ -1,0 +1,67 @@
+body{
+    background-color: #01CBC6;
+    margin: 0;
+    padding: 0;
+    font-family: 'Bungee Shade', cursive;
+
+}
+#head{
+    color: #EA7773;
+    margin: 0;
+    padding: 0;
+    font-size: 50px;
+    text-align: center;
+}
+#clock {
+  font-size: 36px;
+  display: block;
+  padding: 5px 0px;
+  text-align: center;
+    color: #EA7773;
+}
+
+#head2{
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    color:#E74292;
+}
+.container{
+    
+    padding: 0;
+}
+
+#clock{
+    height: 50px;
+    display: block;
+}
+#image{
+    width: 500px;
+    height: 500px;
+    margin-left: 32%;
+    margin-top:30px;
+    border: 10px solid blueviolet;
+    border-radius: 10px;
+    align-items: center;
+}
+#text{
+    text-align: center;
+    margin-top: -200px;
+    color:crimson;
+}
+.imin{
+
+    text-align: center;
+}
+#pro{
+    margin-top: 200px;
+}
+
+#partyTimeButton{
+  padding: 10px 80px;
+  background-color: chartreuse;
+}
+#foot{
+    margin-top: 10px;
+    text-align: center;
+}
